@@ -1,0 +1,19 @@
+Info,  T36544: Load ../resources/f-16.obj
+Info,  T36544: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T36544: Import root directory is '../resources\'
+Error, T36544: OBJ: Unable to locate material file f-16.mtl
+Info,  T36544: OBJ: Opening fallback material file ../resources/f-16.mtl
+Error, T36544: OBJ: Unable to locate fallback material file ../resources/f-16.mtl
+Error, T36544: OBJ: failed to locate material red, creating new material
+Error, T36544: OBJ: failed to locate material blue, creating new material
+Error, T36544: OBJ: failed to locate material glass, creating new material
+Info,  T36544: Entering post processing pipeline
+Info,  T36544: RemoveRedundantMatsProcess finished. Removed 2 redundant and 1 unused materials.
+Info,  T36544: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T36544: Points: 0, Lines: 0, Triangles: 438, Polygons: 0 (Meshes, X = removed)
+Error, T36544: Failed to compute tangents; need UV data in channel0
+Skipping one or more lines with the same contents
+Info,  T36544: JoinVerticesProcess finished | Verts in: 9324 out: 7821 | ~16.1197
+Warn,  T36544: Mesh 253: Not suitable for vcache optimization
+Info,  T36544: Cache relevant are 129 meshes (3645 faces). Average output ACMR is 1.65021
+Info,  T36544: Leaving post processing pipeline

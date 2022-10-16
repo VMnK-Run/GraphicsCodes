@@ -1,2 +1,20 @@
 ﻿  main.cpp
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(160,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(184,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(185,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(186,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(193,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(195,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Camera.h(204,90): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\Mesh.h(80,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(88,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(168,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(169,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(172,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(173,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(174,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(175,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\Assignment1\main.cpp(190,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   Assignment1.vcxproj -> D:\TJU\22231\计算机图形技术\GraphicsCodes\Assignment1\x64\Debug\Assignment1.exe

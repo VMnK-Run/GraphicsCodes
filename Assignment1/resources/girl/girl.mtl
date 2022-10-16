@@ -1,0 +1,131 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:04.12.2018 15:38:24
+
+newmtl Material__82
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1490.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1490.dds
+
+newmtl Material__84
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1590.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1590.dds
+	map_d E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1590.dds
+
+newmtl Material__85
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\1ed6ee10.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\1ed6ee10.dds
+	map_d E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\1ed6ee10.dds
+
+newmtl Material__86
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c19b0.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c19b0.dds
+
+newmtl Material__87
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c17b0.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c17b0.dds
+	map_d E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c17b0.dds
+
+newmtl Material__88
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1cd0.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c1cd0.dds
+
+newmtl Material__89
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\191d6b90.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\191d6b90.dds
+
+newmtl Material__90
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\191d94d0.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\191d94d0.dds
+
+newmtl Material__91
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c18b0.dds
+	map_Kd E:\MyPython\DeepMimic-master\test\obj\3dmax。非常漂亮的精灵妹子。。。。_爱给网_aigei_com\高挑的漂亮妹妹模型\d8c18b0.dds
