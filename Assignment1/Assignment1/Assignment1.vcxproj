@@ -150,14 +150,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />
-    <ClInclude Include="inc\ModelImporter.h" />
     <ClInclude Include="Mesh.h" />
     <ClInclude Include="Model.h" />
     <ClInclude Include="Shader.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="1.txt" />
     <Text Include="fragmentSource.txt" />
     <Text Include="vertexSource.txt" />
   </ItemGroup>
